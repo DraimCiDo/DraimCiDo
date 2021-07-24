@@ -12,10 +12,10 @@
 
 <h2 align="center">
   <a href="https://github.com/DraimCiDo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DraimCiDo&show_icons=true&theme=radical">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DraimCido&show_icons=true&theme=radical">
   </a>
   <br>
   <a href="https://github.com/DraimCiDo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DraimCiDo&layout=compact">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DraimCido&layout=compact">
   </a>
 </h2>
