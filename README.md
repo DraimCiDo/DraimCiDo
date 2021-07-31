@@ -1,7 +1,7 @@
 <img align='left' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/LinkFront_Beat.gif' width='20%'>  
 <img align='right' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/zelda.gif' width='20%'>  
 
-# BIO
+# <p align="center">BIO</p>
 <p align="center">Founder & Developer at <b>DraimCiDo</b> and <b>DailyFire</b></p>
 
 <p align="center">🔒 Security   ☁️ Networking
