@@ -2,7 +2,7 @@
 <img align='right' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/zelda.gif' width='20%'>  
 
 # <p align="center">BIO</p>
-<p align="center">Founder & Developer at <b>DraimCiDo</b> and <b>DailyFire</b></p>
+<p align="center">Founder & Developer at <b>DraimCiDo</b> and <b>DraimStudio</b></p>
 
 <p align="center">🔒 Security   ☁️ Networking
 🌎 Game Server Creator 💻 Gamer</p>
