@@ -14,7 +14,7 @@
   </a>
 </h3>
 
-<h2 align="center">My Plugins</h2>
+<!-- <h2 align="center">My Plugins</h2>
 <p align="center">Take a look at my most outstanding plugins.</p>
 
 
@@ -22,7 +22,7 @@
 | :---: | :---: | :---: | :---: | :---: | 
 <img align='center' src='' width="100px"  height='100px'> | <img align='center' width="100px" src='' height='100px'>  | <img align='center' src='' width="100px" height='100px'> | <img align='center' src='' width="100px" height='100px'> | <img align='center' src='' width="100px" height='100px'> |
 | <a href="https://github.com/DraimCiDo/DraimMenu" target="_blank">`Source`</a> <a href="https://github.com/DraimCiDo/DraimMenu" target="_blank">`Wiki`</a> | <a href="https://github.com/DraimCiDo/DraimCreative" target="_blank">`Source`</a> <a href="https://github.com/DraimCiDo/DraimCreative" target="_blank">`Wiki`</a> | <a href="https://github.com/DraimCiDo/DraimMarry" target="_blank">`Source`</a> <a href="https://github.com/DraimCiDo/DraimMarry" target="_blank">`Wiki`</a> | <a href="https://github.com/DraimCiDo/DraimCraft" target="_blank">`Source`</a> <a href="https://github.com/DraimCiDo/DraimCraft" target="_blank">`Wiki`</a> | <a href="https://github.com/DraimCiDo/DraimFood" target="_blank">`Source`</a> <a href="https://github.com/DraimCiDo/DraimFood" target="_blank">`Wiki`</a> |
-
+ -->
 <h2 align="center">Skills</h2>
 <p align="center">A summary of my programming skills.</p>
 
