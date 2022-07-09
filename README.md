@@ -50,11 +50,10 @@
 <h2 align="center">My GitHub Stats</h2>
 <h3 align="center">
   <a href="https://github.com/DraimCiDo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DraimCido&show_icons=true&theme=radical">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DraimCIDo&count_private=true&theme=github_dark&locale=ru&&hide_border=true&disable_animations=truee">
   </a>
-  <br>
   <a href="https://github.com/DraimCiDo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DraimCido&layout=compact">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DraimCiDo&count_private=true&locale=ru&theme=github_dark&hide_border=true&layout=compact">
   </a>
 </h3>
 
