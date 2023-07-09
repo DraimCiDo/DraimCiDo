@@ -9,7 +9,7 @@
 <p align="center">🔒 Security   ☁️ Networking
 🌎 Game Server Creator 💻 Gamer</p>
 
-<p align="center">Contact me on Discord: <b>DraimGooSe#8815</b></p>
+<p align="center">Contact me on Discord: <b>DraimGooSe</b> or <b>draimcido.dev</b></p>
 <h3 align="center">
   <a href="https://discord.gg/draimcido/" alt="Дискорд">
       <img src="https://img.shields.io/discord/422951477535834123?color=green&style=for-the-badge"/>
