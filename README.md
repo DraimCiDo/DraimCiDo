@@ -29,23 +29,16 @@
 <p align="center">A summary of my programming skills.</p>
 
 <p align="center">
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/apache.png' height='42px'/>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/cloudflare.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/css.png' height='42px'/>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/debian.webp' height='42px'/>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/html.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/java.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/javascript.jpg' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mariadb.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mysql.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nextjs.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/Nginx.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nodejs.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/php.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/python.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/react.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/sql.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/typescript.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/unity.png' height='42px'>
 </p>
 
