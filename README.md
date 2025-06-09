@@ -42,14 +42,14 @@
 
 <h2 align="center">My GitHub Stats</h2>
 <h3 align="center">
-<!--   <a href="https://github.com/DraimCiDo">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=DraimCIDo&count_private=true&theme=github_dark&locale=ru&&hide_border=true&disable_animations=truee">
-  </a> -->
+  <a href="https://github.com/DraimCiDo">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=DraimCiDo&theme=blueberry&show_icons=true&hide_border=true&count_private=true">
+  </a>
   <a href="https://git.io/streak-stats">
-    <img align="center" src="https://streak-stats.demolab.com?user=DraimCiDo&theme=transparent&hide_border=true&locale=ru&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DraimCiDo&theme=blueberry&hide_border=true" />
   </a>
   <a href="https://github.com/DraimCiDo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DraimCiDo&count_private=true&locale=ru&theme=github_dark&hide_border=true&layout=compact">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DraimCiDo&theme=blueberry&show_icons=true&hide_border=true&layout=compact">
   </a>
 </h3>
 
