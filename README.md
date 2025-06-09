@@ -45,9 +45,9 @@
   <a href="https://github.com/DraimCiDo">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=DraimCiDo&theme=blueberry&show_icons=true&hide_border=true&count_private=true">
   </a>
-  <a href="https://git.io/streak-stats">
+<!--   <a href="https://git.io/streak-stats">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DraimCiDo&theme=blueberry&hide_border=true" />
-  </a>
+  </a> -->
   <a href="https://github.com/DraimCiDo">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DraimCiDo&theme=blueberry&show_icons=true&hide_border=true&layout=compact">
   </a>
