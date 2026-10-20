@@ -16,15 +16,6 @@
   </a>
 </h3>
 
-<!-- <h2 align="center">My Plugins</h2>
-<p align="center">Take a look at my most outstanding plugins.</p>
-
-
-| <a href="" target="_blank">**DraimMenu**</a> | <a href="" target="_blank">**DraimCreative**</a> | <a href="" target="_blank">**DraimMarry**</a> | <a href="" target="_blank">**DraimCraft**</a> | <a href="" target="_blank">**DraimFood**</a> |
-| :---: | :---: | :---: | :---: | :---: | 
-<img align='center' src='' width="100px"  height='100px'> | <img align='center' width="100px" src='' height='100px'>  | <img align='center' src='' width="100px" height='100px'> | <img align='center' src='' width="100px" height='100px'> | <img align='center' src='' width="100px" height='100px'> |
-| <a href="https://github.com/DraimCiDo/DraimMenu" target="_blank">`Source`</a> <a href="https://github.com/DraimCiDo/DraimMenu" target="_blank">`Wiki`</a> | <a href="https://github.com/DraimCiDo/DraimCreative" target="_blank">`Source`</a> <a href="https://github.com/DraimCiDo/DraimCreative" target="_blank">`Wiki`</a> | <a href="https://github.com/DraimCiDo/DraimMarry" target="_blank">`Source`</a> <a href="https://github.com/DraimCiDo/DraimMarry" target="_blank">`Wiki`</a> | <a href="https://github.com/DraimCiDo/DraimCraft" target="_blank">`Source`</a> <a href="https://github.com/DraimCiDo/DraimCraft" target="_blank">`Wiki`</a> | <a href="https://github.com/DraimCiDo/DraimFood" target="_blank">`Source`</a> <a href="https://github.com/DraimCiDo/DraimFood" target="_blank">`Wiki`</a> |
- -->
 <h2 align="center">Skills</h2>
 <p align="center">A summary of my programming skills.</p>
 
@@ -42,14 +33,11 @@
 
 <h2 align="center">My GitHub Stats</h2>
 <h3 align="center">
-  <a href="https://github.com/DraimCiDo">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=DraimCiDo&theme=blueberry&show_icons=true&hide_border=true&count_private=true">
+  <a>
+    <img align="left center" src="https://github-stats-extended.vercel.app/api/top-langs?username=DraimCiDo&layout=compact&langs_count=4&theme=aura">
   </a>
-<!--   <a href="https://git.io/streak-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DraimCiDo&theme=blueberry&hide_border=true" />
-  </a> -->
-  <a href="https://github.com/DraimCiDo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DraimCiDo&theme=blueberry&show_icons=true&hide_border=true&layout=compact">
+  <a>
+    <img aling="center" src="https://github-stats-extended.vercel.app/api?username=DraimCiDo&hide_title=true&show_icons=true&include_all_commits=true&theme=aura)](https://github-stats-extended.vercel.app/api?username=DraimCiDo&hide_title=true&show_icons=true&include_all_commits=true&theme=aura" />
   </a>
 </h3>
 
