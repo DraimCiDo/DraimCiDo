@@ -32,14 +32,14 @@
 </p>
 
 <h2 align="center">My GitHub Stats</h2>
-<h3 align="center">
-  <a>
-    <img align="left center" src="https://github-stats-extended.vercel.app/api/top-langs?username=DraimCiDo&layout=compact&langs_count=4&theme=aura">
-  </a>
-  <a>
-    <img aling="center" src="https://github-stats-extended.vercel.app/api?username=DraimCiDo&hide_title=true&show_icons=true&include_all_commits=true&theme=aura)](https://github-stats-extended.vercel.app/api?username=DraimCiDo&hide_title=true&show_icons=true&include_all_commits=true&theme=aura" />
-  </a>
-</h3>
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=DraimCiDo&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=DraimCiDo&theme=dark)
+
+<h2 align="center"> 
+  
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DraimCiDo&layout=compact&theme=dark) 
+</h2>
 
 <!-- <h2 align="center">Pinned Repositories</h2> -->
 
