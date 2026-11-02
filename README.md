@@ -32,10 +32,9 @@
 </p>
 
 <h2 align="center">My GitHub Stats</h2>
-<p align="center"> 
+<h3 align="center">
   
 ![](https://github-readme-stats-fast.vercel.app/api?username=DraimCiDo&show_icons=true&theme=dark)
-</p>
 
 <p align="center"> 
   
